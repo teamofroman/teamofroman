@@ -8,5 +8,5 @@
 ## Techology
 ![Django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django)
 
-
+![TeamOfRoman stats](https://github-readme-stats.vercel.app/api?username=teamofroman&show_icons=true&title_color=8506A9)
 
