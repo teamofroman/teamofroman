@@ -7,7 +7,7 @@
 
 ## Techology
 ![Django](https://img.shields.io/badge/django-ed8b00?style=for-the-badge&logo=django)
-![SQLAlchemy](https://img.shields.io/badge/django-ed8b00?style=for-the-badge&logo=sqlalchemy)
-![RestAPI](https://img.shields.io/badge/django-ed8b00?style=for-the-badge&logo=restapi)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-ed8b00?style=for-the-badge&logo=sqlalchemy)
+![RestAPI](https://img.shields.io/badge/restapi-ed8b00?style=for-the-badge&logo=restapi)
 
 
