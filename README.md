@@ -1,13 +1,31 @@
 # Александров Роман
 
 ## Языки программирования
-![Python](https://img.shields.io/badge/Python-028E9B?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-028E9B?style=for-the-badge&logo=c%2B%2B)
-![Node.js](https://img.shields.io/badge/Node.js-028E9B?style=for-the-badge&logo=node.js)
+- Python (основной)
+- С++ (средний уровень)
+- Node.js (начальный)
 
 ## Стек технологий
-![Django](https://img.shields.io/badge/django-028E9B?style=for-the-badge&logo=django)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-028E9B?style=for-the-badge&logo=sqlalchemy)
-![RestAPI](https://img.shields.io/badge/restapi-028E9B?style=for-the-badge&logo=rest-api)
-
+- Python
+- Django Framework
+- Django
+- Docker
+- Backend
+- React
+- Git
+- REST API
+- Flask
+- PostgreSQL
+- FastAPI
+- GitHub
+- SQL
+- Linux
+- SQLAlhemy
+- Nginx
+- Uvicorn
+- Gunicorn
+- JWT
+- JSON
+- API
+- PyTest
 
